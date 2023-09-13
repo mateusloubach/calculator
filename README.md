@@ -7,15 +7,15 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Deploy Status](https://api.netlify.com/api/v1/badges/a01e8441-8d41-4495-8f5b-031589554e24/deploy-status)](https://app.netlify.com/sites/animaldb/deploys)
+  
+  ![GitHub top language](https://img.shields.io/github/languages/top/mateusloubach/calculator?style=flat-square&logo=javascript&logoColor=f5f5f5&color=%23e4e3e3)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/mateusloubach/calculator/main?style=flat-square)
+  
+  ![GitHub language count](https://img.shields.io/github/languages/count/mateusloubach/calculator?style=flat-square&color=%23e4e3e3)
+  ![GitHub Code Size](https://img.shields.io/github/languages/code-size/mateusloubach/calculator?style=flat-square&color=%23e4e3e3)
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mateusloubach/calculator">
-  
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mateusloubach/calculator">
-  
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mateusloubach/calculator">
-  
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mateusloubach/calculator">
+
 </div>
 
 ---
