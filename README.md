@@ -1,8 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://png.pngtree.com/element_our/png_detail/20190103/calculator-vector-icon-png_308914.jpg" alt="Calculadora"></a>
+ <img width=200px height=200px src="https://github.com/mateusloubach/calculator/blob/main/public/logo.png" alt="https://png.pngtree.com/element_our/png_detail/20190103/calculator-vector-icon-png_308914.jpg"></a>
 </p>
-
 <h3 align="center">Calculator App</h3>
 
 <div align="center">
