@@ -5,7 +5,7 @@ import './index.css';
 
 ReactDOM.render(
   <div>
-    <h1>Calculator</h1>
+    <h1>Calculadora</h1>
     <Calculator />
   </div>,
   document.getElementById('root')
